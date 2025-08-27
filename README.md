@@ -38,7 +38,7 @@ Basta rodar o projeto e acessar:
 
 ## Endpoints principais
 
-### 👤 Pessoa
+### Pessoa
 ```http
 POST /cadastro/pessoa
 ```
