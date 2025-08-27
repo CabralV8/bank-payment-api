@@ -1,0 +1,11 @@
+.git
+.gitignore
+.gradle
+build
+out
+**/*.iml
+.idea
+.gradle/
+node_modules
+*.log
+.DS_Store
