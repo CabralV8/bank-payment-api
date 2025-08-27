@@ -134,7 +134,6 @@ Exclui pagamento pendente.
 ## Testes
 
 Você pode usar o **Postman** ou o próprio **Swagger** para testar os endpoints.  
-Há também uma coleção Postman pronta no diretório `/postman`.
 
 ---
 
